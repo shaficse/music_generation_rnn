@@ -11,7 +11,7 @@ pip install numpy
 ```
 ````
 # Training 
-For tuning the model parameters consider 'configure.py' page and go through the Trainging.ipynb Notebook.
+For tuning the model parameters consider 'configure.py' page and go through the Training.ipynb Notebook.
 
 # Inference
 For testing the model in inference mode  go through the inferencing.ipynb Notebook.
